@@ -1,5 +1,5 @@
 # atique597-Research-Assistant-Coding-Task-Two-Computer-Vision
-Image Classification
+**Image Classification**
 
 The provided image is representing the illusion to the eyes. I provide this image as in inference to 5 different Pre Trained Deep learning models as in input without any weights freezing for the Top Layers. 
 
